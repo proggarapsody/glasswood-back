@@ -1,6 +1,4 @@
-# 😎 This is my first attempt to build Clean architecture in NestJS.
-
-## E-Commerce Site with 
+## E-Commerce API with 
 1. Users
 2. Jwt auth
 3. Cart
